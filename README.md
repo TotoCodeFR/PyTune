@@ -19,7 +19,7 @@ To install PyTune, follow these simple steps:
     pip install -r requirements.txt
    ```
    ```
-    py PyTune.py
+    py main.py
    ```
 
 ## Contributions

@@ -12,7 +12,7 @@ PyTune is a lightweight and versatile media player written in Python. It provide
 ## Installation
 To install PyTune, follow these simple steps:
 
-1. Download and unzip the .zip file at the latest (release)[https://www.github.com/TotoCodeFR/PyTune/releases/latest].
+1. Download and unzip the .zip file at the latest [release](https://www.github.com/TotoCodeFR/PyTune/releases/latest).
 2. Open your terminal in the directory where the files are in.
 3. Type these commands:
    ```

@@ -1,4 +1,7 @@
 # PyTune: A Python Media Player
+## Information
+This repo was archived on Jan. 14th 2024 and was unarchived the Jul. 26th 2024 because I felt like this project wasn't finished enough to be put on archive and may be pushed for an unknown duration.
+
 ## Overview
 PyTune is a lightweight and versatile media player written in Python. It provides a simple and intuitive interface for playing audio files, making it a perfect choice for users who want a hassle-free music listening experience.
 
